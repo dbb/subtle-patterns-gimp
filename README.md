@@ -15,11 +15,10 @@ The individual GIMP pattern files were created by [Daniel Bolton](https://github
 
 ## License
 
-From the website: "Subtle Patterns is a collection of 88 high quality design patterns for
-you to use freely. New patterns added weekly. A project by [Atle Mo](http://www.atlemo.com/)."
+This work is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/). The patterns can be used freely in both personal and commercial projects with no attribution required, but always appreciated. Made by [Atle Mo](http://behindmyscenes.com/).
 
 ## Donations
 
-If you find the patterns useful, please consider donating to the project via [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5FGBQBYFKUQK6)
+If you find the patterns useful, please consider donating to the project via [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5FGBQBYFKUQK6).
 
 
