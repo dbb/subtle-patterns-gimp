@@ -4,7 +4,9 @@
 
 ## Description
 
-I'm taking the original `.png` files from [Subtle Patterns](http://subtlepatterns.com/) and converting them to individual GIMP patterns. You can download them all as a single ~15MiB Photoshop pattern file [here](http://subtlepatterns.com/patterns/SubtlePatterns.pat.zip).
+I'm taking the original PNG files from [Subtle Patterns](http://subtlepatterns.com/) and converting them to individual GIMP patterns. You can download them all as a single ~15MiB Photoshop pattern file [here](http://subtlepatterns.com/patterns/SubtlePatterns.pat.zip).
+
+The indexed PNGs have been converted to RGB.
 
 ## Authors
 
